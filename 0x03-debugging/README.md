@@ -1,3 +1,3 @@
-Readme file for debugging assignments on ALX
+Readme file that contains all task on Debugging.
 
-for low lwvwl programming in C.
+Currently at ALX, were are working on low level programming in C.
