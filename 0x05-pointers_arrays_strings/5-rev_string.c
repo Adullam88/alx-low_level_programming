@@ -2,6 +2,7 @@
 
 /**
  * rev_string - A function that reverses a string
+ * followed by a newline.
  * @s: An input string
  * Return: Nothing
  */
@@ -15,8 +16,8 @@ void rev_string(char *s)
 
 	while (i < len--)
 	{
-		aux = s[i];
-		s[i++] = s[len];
-		s[len] = aux;
+	aux = s[i];
+	s[i++] = s[len];
+	s[len] = aux;
 	}
 }
